@@ -41,3 +41,7 @@ canvas{
     border:5px solid white;
     border-radius:20px;
 }
+canvas_length{
+    width:inherit;
+    border-top-left-radius: 100px
+}
